@@ -1,4 +1,4 @@
-##Programming Tasks
+Programming Tasks
 Keep solutions to all tasks in functions with names showing their purpose.
 
 1. Run programs in terminal
@@ -90,7 +90,7 @@ Keep solutions to all tasks in functions with names showing their purpose.
 38. Solve task from https://adventofcode.com/2017/day/1
 
 
-####Other sources
+Other sources
   - https://www.hackerrank.com/
   - https://www.codewars.com/
   - https://adventofcode.com/
