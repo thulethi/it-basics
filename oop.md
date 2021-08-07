@@ -1,4 +1,4 @@
-##OOP (Object Oriented Programming)
+## OOP (Object Oriented Programming)
 
 1. In chosen language, create a separate project with a class structure as follows:
     1. class Animal
