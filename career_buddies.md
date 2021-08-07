@@ -1,10 +1,10 @@
-[Preparation](#preparation)
-[IT Basics](#it-basics)
-[IT more advanced topics](#it-more-advanced-topics)
-[Programming Tasks](./programming_tasks.md)
-[OOP - Object Oriented Programming](./oop.md)
+- [Preparation](#preparation)
+- [IT Basics](./it-basics)
+- [IT more advanced topics](#it-more-advanced-topics)
+- [Programming Tasks](./programming_tasks.md)
+- [OOP - Object Oriented Programming](./oop.md)
 
-##Preparation
+## Preparation
 - Install Linux of your choice (can be any, even Ubuntu), alternatively any Apple computer with macOS or hackintosh.
     - Why: this is an industry standard in programming and many tools will just not work on Windows
     - To get familiar with Linux you can temporarily use Cygwin - it will work for very basic things
@@ -13,7 +13,7 @@
 - Get familiar with package manager of your Linux (for Ubuntu it’s apt, for macOS it’s brew).
 - If you don’t know it yet learn touchtyping, you can find some online tools to train. It takes about 2 weeks until you’ll get comfortable with it, initially it’s painful, but it’s definitely worth learning.
 
-##IT Basics
+## IT Basics
 1. Basics
     1. Systems: binary, decimal, hexadecimal and conversions
     2. Numbers memory representation, negative numbers, floats, array, matrix
@@ -65,7 +65,7 @@
     4. JavaScript
     5. Dynamic vs static typing
 
-######Vocabulary
+## Vocabulary
 
 1. General knowledge
     1. Units: Volt, Hertz
@@ -134,7 +134,6 @@ To read:
 - Pipes, redirections https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
 - Aliases http://www.linfo.org/alias.html
 
-
 Tasks:
 - How to make #8822aa colour more red? How to make it half less saturated? How to make it gray with approximately same brightness? Calculate in memory only.
 - Find some websites to test regular expressions (regexps). Learn basics: *, ., (), [], ^, $, $1, $2. Get familiar with sed command line tool. Test some regexps of your choice,
@@ -145,7 +144,7 @@ Tasks:
 - In what kind of memory are typically located: local variables, global variables, object (class instances), class variables, function parameters, counters
 
 
-##IT more advanced topics
+## IT more advanced topics
 #####Algorithms
 - Basic algorithms
     - getting the smallest element from a list
